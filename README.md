@@ -133,7 +133,7 @@ p.note { display: none; }
 
 <a href="20241003_001.png" target="_blank"><img src="20241003_001.png" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">下から2人目がXアカウント！</span></h2>
+<h2><span class="yellow">下から2人目の「@sajyan」がXのアカウント名！</span></h2>
 
 <a href="20241003_002.png" target="_blank"><img src="20241003_002.png" alt="サンプル画像" width="900" /></a>
 
