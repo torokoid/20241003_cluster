@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(20240930_003.JPG) center/cover no-repeat;
+background:url(20241003_009.png) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -120,11 +120,11 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2024/10/03 、メタバース空間「Cluster Accelerator」へ推薦いただきました !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2024/10/3 、メタバース空間「Cluster Accelerator」へ推薦いただきました !!!</marquee></span></h1>
 
 <!--上段にパンクズリストを入れる時の例-->
 <div style="background-color:rgb(255,255,255,0.5);">
-<p class="topicpath"><a href="https://torokoid.github.io/Mashiko_himawari_4/" target="_blank">2024年8月10日、益子ひまわり祭</a>><a href="https://torokoid.github.io/20240817_hagurosan/" target="_blank">2024年8月17日、羽黒山</a>><a href="https://torokoid.github.io/20240930_hagurosan/" target="_blank">2024年9月30日、羽黒山</a>><a>10月03日、Cluster Accelerator</a></p></div>
+<p class="topicpath"><a href="https://torokoid.github.io/Mashiko_himawari_4/" target="_blank">2024年8月10日、益子ひまわり祭</a>><a href="https://torokoid.github.io/20240817_hagurosan/" target="_blank">2024年8月17日、羽黒山</a>><a href="https://torokoid.github.io/20240930_hagurosan/" target="_blank">2024年9月30日、羽黒山</a>><a>10月3日、Cluster Accelerator</a></p></div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -133,6 +133,16 @@ p.note { display: none; }
 
 <h2><span class="yellow">メタバース空間で開催されるイベントの状況を撮影してXに投稿しまくってました！</span></h2>
 
+<a href="20241003_001.png" target="_blank"><img src="20241003_001.png" alt="サンプル画像" width="900" /></a>
+<a href="20241003_002.png" target="_blank"><img src="20241003_002.png" alt="サンプル画像" width="900" /></a>
+<a href="20241003_003.png" target="_blank"><img src="20241003_003.png" alt="サンプル画像" width="900" /></a>
+<a href="20241003_004.png" target="_blank"><img src="20241003_004.png" alt="サンプル画像" width="900" /></a>
+<a href="20241003_005.png" target="_blank"><img src="20241003_005.png" alt="サンプル画像" width="900" /></a>
+<a href="20241003_006.png" target="_blank"><img src="20241003_006.png" alt="サンプル画像" width="900" /></a>
+<a href="20241003_007.png" target="_blank"><img src="20241003_007.png" alt="サンプル画像" width="900" /></a>
+<a href="20241003_008.png" target="_blank"><img src="20241003_008.png" alt="サンプル画像" width="900" /></a>
+<a href="20241003_009.png" target="_blank"><img src="20241003_009.png" alt="サンプル画像" width="900" /></a>
+<a href="20241003_010.png" target="_blank"><img src="20241003_010.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">羽黒山麓の集落エリアはすでに山道<br>
   「羽黒山頂」の看板から山に入ります！</span></h2>
