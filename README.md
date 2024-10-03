@@ -142,13 +142,16 @@ p.note { display: none; }
 <a href="20241003_004.png" target="_blank"><img src="20241003_004.png" alt="サンプル画像" width="900" /></a>
 <a href="20241003_005.png" target="_blank"><img src="20241003_005.png" alt="サンプル画像" width="900" /></a>
 <a href="20241003_006.png" target="_blank"><img src="20241003_006.png" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ここからは音楽イベントの状況！</span></h2>
+
 <a href="20241003_007.png" target="_blank"><img src="20241003_007.png" alt="サンプル画像" width="900" /></a>
 <a href="20241003_008.png" target="_blank"><img src="20241003_008.png" alt="サンプル画像" width="900" /></a>
 <!--
 <a href="20241003_009.png" target="_blank"><img src="20241003_009.png" alt="サンプル画像" width="900" /></a>
 -->
 
-<h2><span class="yellow">イベントの主催者からお礼のメッセージ！</span></h2>
+<h2><span class="yellow">イベントの主催者からお礼のメッセージが届きました！</span></h2>
 
 <a href="20241003_010.png" target="_blank"><img src="20241003_010.png" alt="サンプル画像" width="900" /></a>
 
