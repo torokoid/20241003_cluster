@@ -132,11 +132,10 @@ p.note { display: none; }
 <h2><span class="yellow">Cluster Acceleratorに推薦頂きました！</span></h2>
 
 <a href="20241003_001.png" target="_blank"><img src="20241003_001.png" alt="サンプル画像" width="900" /></a>
+<a href="20241003_002.png" target="_blank"><img src="20241003_002.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">メタバース空間で開催されるイベントの状況を撮影してXに投稿しまくってました！</span></h2>
 
-<a href="20241003_002.png" target="_blank"><img src="20241003_002.png" alt="サンプル画像" width="900" /></a>
-<a href="20241003_003.png" target="_blank"><img src="20241003_003.png" alt="サンプル画像" width="900" /></a>
 <a href="20241003_004.png" target="_blank"><img src="20241003_004.png" alt="サンプル画像" width="900" /></a>
 <a href="20241003_005.png" target="_blank"><img src="20241003_005.png" alt="サンプル画像" width="900" /></a>
 <a href="20241003_006.png" target="_blank"><img src="20241003_006.png" alt="サンプル画像" width="900" /></a>
@@ -145,27 +144,22 @@ p.note { display: none; }
 <!--
 <a href="20241003_009.png" target="_blank"><img src="20241003_009.png" alt="サンプル画像" width="900" /></a>
 -->
+
+<h2><span class="yellow">イベントの主催者からお礼のメッセージ！</span></h2>
+
 <a href="20241003_010.png" target="_blank"><img src="20241003_010.png" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">羽黒山麓の集落エリアはすでに山道<br>
-  「羽黒山頂」の看板から山に入ります！</span></h2>
-
-
-
 
 
 
 <br><br><br>
-<h2><span class="yellow">以下沿道の彼岸花</span></h2>
+<h2><span class="yellow">普段はこんなところに常駐<br>メタバース内の温泉に浸かっている常連さん<br>AKILUXさんはこのワールドの作者</span></h2>
 
-
-
-<h2><span class="yellow">展望台からの景色（霞んでます）</span></h2>
-
+<a href="20241003_003.png" target="_blank"><img src="20241003_003.png" alt="サンプル画像" width="900" /></a>
 
 
 <br><br><br>
-<h2><span class="yellow">11月16日(土)に開催される「梵天まつり」のポスターが貼られていました</span></h2>
+
 
 
 
