@@ -129,11 +129,12 @@ p.note { display: none; }
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!--ここから下が、本体部分-->
-<br><p>Cluster Acceleratorに推薦頂きました</p>
+<h2><span class="yellow">Cluster Acceleratorに推薦頂きました！</span></h2>
+
+<a href="20241003_001.png" target="_blank"><img src="20241003_001.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">メタバース空間で開催されるイベントの状況を撮影してXに投稿しまくってました！</span></h2>
 
-<a href="20241003_001.png" target="_blank"><img src="20241003_001.png" alt="サンプル画像" width="900" /></a>
 <a href="20241003_002.png" target="_blank"><img src="20241003_002.png" alt="サンプル画像" width="900" /></a>
 <a href="20241003_003.png" target="_blank"><img src="20241003_003.png" alt="サンプル画像" width="900" /></a>
 <a href="20241003_004.png" target="_blank"><img src="20241003_004.png" alt="サンプル画像" width="900" /></a>
@@ -141,7 +142,9 @@ p.note { display: none; }
 <a href="20241003_006.png" target="_blank"><img src="20241003_006.png" alt="サンプル画像" width="900" /></a>
 <a href="20241003_007.png" target="_blank"><img src="20241003_007.png" alt="サンプル画像" width="900" /></a>
 <a href="20241003_008.png" target="_blank"><img src="20241003_008.png" alt="サンプル画像" width="900" /></a>
+<!--
 <a href="20241003_009.png" target="_blank"><img src="20241003_009.png" alt="サンプル画像" width="900" /></a>
+-->
 <a href="20241003_010.png" target="_blank"><img src="20241003_010.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">羽黒山麓の集落エリアはすでに山道<br>
