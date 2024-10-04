@@ -159,7 +159,7 @@ p.note { display: none; }
 
 
 <br><br><br>
-<h2><span class="yellow">普段はこんなところに常駐<br>メタバース内の温泉に浸かっている常連さん<br>AKILUXさんはこのワールドの作者</span></h2>
+<h2><span class="yellow">普段はこんなところに常駐<br>メタバース内の温泉に浸かっている常連さん<br>AKILUXさんはこのワールドの作者、ググれば名前が出てくるような有名人です</span></h2>
 
 <a href="20241003_003.png" target="_blank"><img src="20241003_003.png" alt="サンプル画像" width="900" /></a>
 
